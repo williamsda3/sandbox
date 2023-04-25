@@ -1,0 +1,9 @@
+This is a base level implementation of a the PING netowrking tool.
+I created both a Client and Server that will both communicate to each other.
+The purpose of the program is to see the RTT (round-trip-time) of a packet, this can give an estamate of network perfomance.
+To visualise how the PING tool opperaties using a UDP connection, packet loss is added on the Server side to also allow an implementation of 
+loss handling on the CLient side 
+
+The user can play around with sending different packet amounts and 'packet timeout' time, they can also set the packet loss percentage on the Server side.
+
+Overall this was fun to make and play around with!
