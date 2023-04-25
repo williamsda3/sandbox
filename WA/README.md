@@ -1,0 +1,1 @@
+Trying out things in python by creating a quick simple 'game'. 
